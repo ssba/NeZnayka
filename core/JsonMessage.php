@@ -1,5 +1,5 @@
 <?php
-namespace core;
+namespace Сore;
 
 class JsonMessage
 {

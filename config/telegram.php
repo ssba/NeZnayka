@@ -1,0 +1,1 @@
+define('TLG_TOKEN', '287560266:AAH5uHROztsqPoOgRk9EFwPDBj5xnKfGJaI');

@@ -1,6 +1,6 @@
 <?php
-use TelegramBot\Api as Api;
 require __DIR__ . 'vendor/autoload.php';
+use TelegramBot\Api as Api;
 
 echo "Hello World";
 $bot = new Api;
