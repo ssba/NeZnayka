@@ -2,7 +2,6 @@
 require __DIR__ . 'vendor/autoload.php';
 use TelegramBot\Api as Api;
 
-echo "Hello World";
 $bot = new Api;
 
 $bot->command('start01', function ($message) use ($bot) {
