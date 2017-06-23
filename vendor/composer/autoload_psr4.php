@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'config\\' => array($baseDir . '/config'),
+    'TelegramBot\\Api\\' => array($vendorDir . '/telegram-bot/api/src'),
 );
